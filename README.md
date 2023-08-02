@@ -1,5 +1,6 @@
 # AltoLogica
 Create an endpoint to return the prime numbers from a list.
+Test are out of the scope.
 
 - Endpoint: http://127.0.0.1:8000/api/numbers/get_prime/
 
